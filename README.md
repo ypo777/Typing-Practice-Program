@@ -3,16 +3,17 @@
 OS - Windows <br>
 IDE - CodeBlocks
 
-### Programs Functions
-- HandPosition Lessons
-- Paragraph Lessons 
+### Program Functions
+- Tutorial(HandPosition) Lessons
+- Paragraph Lessons
 - Random A-Z Lessons
+- Result Viewer
 <br>
 Program will give you scores and stores it with your name.<br>
 You can compete with others
 
 ### Project Members
-- Phyo Thura
+- [Phyo Thura](https://github.com/phyoethura)
 - Yan Paing Oo
 - Zaw Min Htet
 - Aung Min Thant
