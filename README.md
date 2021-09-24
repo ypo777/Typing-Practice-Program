@@ -7,7 +7,7 @@ IDE - CodeBlocks
 ### Program Functions
 <details open>
 <summary> Main Menu </summary>
-![alt text](https://github.com/ypo777/Typing-Practice-Program/blob/main/img/main_menu.png?raw=true)
+<img src="https://github.com/ypo777/Typing-Practice-Program/blob/main/img/main_menu.png?raw=true">
 </details>
 
 <details open>
