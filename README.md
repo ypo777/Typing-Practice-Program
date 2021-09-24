@@ -17,17 +17,17 @@ IDE - CodeBlocks
 
 <details open>
 <summary> Paragraph Lessons </summary>
-<img src="[alt text](https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Paragraph.png">
+<img src="https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Paragraph.png">
 </details>
 
 <details open>
 <summary> Random A-Z Lessons </summary>
-<img src="[alt text](https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Random.png">
+<img src="https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Random.png">
 </details>
 
 <details open>
 <summary> Result Viewer </summary>
-<img src="[alt text](https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Result.png">
+<img src="https://github.com/ypo777/Typing-Practice-Program/blob/main/img/Result.png">
 </details>
 <br>
 Program will give you scores and stores it with your name.<br>
