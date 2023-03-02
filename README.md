@@ -36,5 +36,5 @@ You can compete with others
 ### Project Members
 - [Phyo Thura](https://github.com/phyoethura)
 - Yan Paing Oo
-- Zaw Min Htet
+- [Zaw Min Htet](https://github.com/zawminnhtet)
 - Aung Min Thant
